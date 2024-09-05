@@ -5,5 +5,9 @@ Programs made for my Machine Learning Internship at Cognifyz Technologies
 2. Restaurant Recommendation system
 3. ML model for Cuisine Classification
 
-Language Used: Python
-Libraries used: scikit-learn, numpy, pandas, matplotlib
+<HTML>
+  <BODY>
+    <H1>Language Used: Python</H1>
+    <p>Libraries used: scikit-learn, numpy, pandas, matplotlib</p>
+    </BODY>
+</HTML>
