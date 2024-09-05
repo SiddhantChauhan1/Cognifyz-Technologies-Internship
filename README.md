@@ -6,4 +6,4 @@ Programs made for my Machine Learning Internship at Cognifyz Technologies
 3. ML model for Cuisine Classification
 
 Language Used: Python
-Libraries used: scikit-learn, numpy, pandas.
+Libraries used: scikit-learn, numpy, pandas, matplotlib
